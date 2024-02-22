@@ -2,6 +2,8 @@
 
 This script is designed to process images in a specified folder, detect faces using OpenCV's Haar Cascades, and then save the processed images with detected faces highlighted by rectangles of different colors. It's written in Python 3.10 and utilizes the OpenCV library for image processing.
 
+![Tux, the Linux mascot](/computed_images/20240221_121953/04-philippines-people-power_16x9-3518215162.jpg)
+
 ## Setup and Installation
 
 Before running the script, ensure you have Python 3.10 or newer installed on your system. You will also need to install the required Python packages:

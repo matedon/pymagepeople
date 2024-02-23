@@ -32,16 +32,16 @@ cascades_paths = [
 ]
 
 colors = [
-    (255, 0, 0),    # Piros
-    (0, 255, 0),    # Zöld
-    (0, 0, 255),    # Kék
-    (255, 255, 0),  # Sárga
-    (255, 0, 255),  # Lila
-    (0, 255, 255),  # Cián
-    (128, 128, 0),   # Sötét sárga
-    (128, 0, 0),    # Sötét piros
-    (0, 128, 0),    # Sötét zöld
-    (0, 0, 128),    # Sötét kék
+    (255, 0, 0),    # Red
+    (0, 255, 0),    # Green
+    (0, 0, 255),    # Blue
+    (255, 255, 0),  # Yellow
+    (255, 0, 255),  # Purple
+    (0, 255, 255),  # Cyan
+    (255, 165, 0),  # Orange
+    (128, 255, 0),  # Green 2
+    (0, 128, 255),  # Blue 2
+    (255, 0, 128),  # Magenta
 ]
 
 for filename in os.listdir(folder_path):
